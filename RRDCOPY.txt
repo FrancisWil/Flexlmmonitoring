@@ -1,0 +1,3 @@
+
+rrdtool.exe create licenseGMEU.rrd -t LicenseVISSI.rrd
+rrdtool tune licenseGMEU.rrd -r VISSI:GMEU
